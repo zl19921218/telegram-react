@@ -52,11 +52,11 @@ Manually copy Telegram api keys from previous step into REACT_TELEGRAM_API_ID an
 
 3. **Update *homepage* property at the app's `package.json` file.**
 
-Define its value to be the string `https://{username}.github.io/{repo-name}`, where `{username}` is your GitHub username, and `{repo-name}` is the name of the GitHub repository. Since my GitHub username is `evgeny-nadymov` and the name of my GitHub repository is `telegram-react`, I added the following property:
+Define its value to be the string `https://{username}.github.io/{repo-name}`, where `{username}` is your GitHub username, and `{repo-name}` is the name of the GitHub repository. Since my GitHub username is `zl19921218` and the name of my GitHub repository is `telegram-react`, I added the following property:
     
 ```js
 //...
-"homepage": "https://evgeny-nadymov.github.io/telegram-react"
+"homepage": "https://zl19921218.github.io/telegram-react"
 ```
 
 4. **Generate a *production build* of your app and deploy it to GitHub Pages.**
